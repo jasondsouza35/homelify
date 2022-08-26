@@ -1,7 +1,18 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium import Keys
 
-url_to_scrape = "https://www.realtor.ca/"
+# Use Selenium and BeautifulSoup to web scrape from Realtor.ca
+
+driver = webdriver.Chrome()
+driver.get("https://www.realtor.ca/")
+
+location = "l9t" #User inputed 
+element = driver.find_element_by_id("homeSearchTxt")
+element.send_keys(location, Keys.RETURN) # Types the desired location into the search bar and clicks the return key
+
+url_to_scrape = driver.getCurrentUrl() # Gets the URL of the page from the desired location
 
 request_page = urlopen(url_to_scrape)
 page_html = request_page.read()
