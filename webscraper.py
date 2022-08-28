@@ -5,6 +5,7 @@ from selenium import Keys
 
 # Use Selenium and BeautifulSoup to web scrape from Realtor.ca
 
+# Open realtor.ca
 driver = webdriver.Chrome()
 driver.get("https://www.realtor.ca/")
 
