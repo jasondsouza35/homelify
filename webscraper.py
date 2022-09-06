@@ -1,17 +1,21 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium import Keys
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.keys import Keys
 
 # Use Selenium and BeautifulSoup to web scrape from Realtor.ca
 
 # Open realtor.ca
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(ChromeDriverManager().install())
+#driver = webdriver.Chrome()
 driver.get("https://www.realtor.ca/")
 
-location = "l9t" #User inputed 
-element = driver.find_element_by_id("homeSearchTxt")
-element.send_keys(location, Keys.RETURN) # Types the desired location into the search bar and clicks the return key
+location = "l9t" # User inputed 
+#element = driver.find_element_by_id("homeSearchTxt")
+element = driver.find_element("homeSearchTxt")
+element.send_keys(location) # Types the desired location into the search bar
+element.send_keys(Keys.ENTER)
 
 url_to_scrape = driver.getCurrentUrl() # Gets the URL of the page from the desired location
 
@@ -31,9 +35,9 @@ headers = 'Size, Price \n'
 f.write(headers)
 
 for house in house_items:
-    size = house.find('div', class_="")
-    price = house.find('div', class_="")
+    location = house.find('div', class_="smallListingCardAddress")
+    price = house.find('div', class_="smallListingCardPrice")
 
-    f.write(title + ',' + price)
+    f.write(location + ',' + price)
 
 f.close()
