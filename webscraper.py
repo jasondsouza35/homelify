@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 driver = webdriver.Firefox(service=Service(executable_path=GeckoDriverManager().install()))
 driver.get("https://www.zolo.ca/")
 
-location = "l9t 6h7"  # Make this user inputted using node.js
+location = "l9t"  # Make this user inputted using node.js
 driver.find_element(By.ID, "sarea").clear()
 element = driver.find_element(By.ID, "sarea")
 element.send_keys(location)
@@ -29,26 +29,27 @@ webpage = urlopen(request_page).read()
 
 html_soup = BeautifulSoup(webpage, 'html.parser')
 
-house_items = html_soup.find_all('div',
-                                 class_="card-listing--details xs-p2 xs-text-4 fill-white flex xs-flex-column xs-flex-shrink-0 xs-relative")
+house_items = html_soup.find_all('div', class_="card-listing--details")
 
 filename = 'local_house_info.csv'
 f = open(filename, 'w')
 
-headers = 'Price, Size \n'
+headers = 'Price,Size\n'
 
 f.write(headers)
 
 for house in house_items:
-    price = house.find('span', itemprop="price").text
-    price = price.replace(',', '')
-    size = ''
-    extra_info = house.find_all('li', class_="xs-inline xs-mr1")
-    for info in extra_info:
-        if ((info.text).endswith('sqft')):
-            size = info.text
+    price = 'Null'
+    size = 'Null'
+    if house.find('span', itemprop="price") != None:
+        price = house.find('span', itemprop="price").text
+        price = price.replace(',', '')
+
+        extra_info = house.find_all('li', class_="xs-inline")
+        for info in extra_info:
+            if (info.text).endswith('sqft'):
+                size = info.text
 
     f.write(price + ',' + size + '\n')
 
 f.close()
-
