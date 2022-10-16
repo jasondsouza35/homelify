@@ -1,0 +1,1756 @@
+1665684740321	geckodriver	INFO	Listening on 127.0.0.1:64684
+1665684740738	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64685" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilelgTktR"
+1665684741084	Marionette	INFO	Marionette enabled
+2022-10-13 14:12:21.086 plugin-container[47781:3177887] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:12:21.086 plugin-container[47781:3177887] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:12:21.107 plugin-container[47781:3177887] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:12:21.108 plugin-container[47781:3177887] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:12:21.108 plugin-container[47781:3177895] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:12:21.108 plugin-container[47781:3177895] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665684741108	Marionette	INFO	Listening on port 64690
+Read port: 64690
+WebDriver BiDi listening on ws://127.0.0.1:64685
+1665684741324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilelgTktR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64685/devtools/browser/95c8eb26-7e75-4c06-b735-de5a487a4803
+1665684747963	Marionette	INFO	Stopped listening on port 64690
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665684790632	geckodriver	INFO	Listening on 127.0.0.1:64841
+1665684791052	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64842" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileYqJ3XK"
+2022-10-13 14:13:11.418 plugin-container[47848:3178718] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:13:11.419 plugin-container[47848:3178718] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:13:11.438 plugin-container[47848:3178718] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:13:11.440 plugin-container[47848:3178718] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:13:11.440 plugin-container[47848:3178716] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:13:11.440 plugin-container[47848:3178716] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665684791442	Marionette	INFO	Marionette enabled
+1665684791601	Marionette	INFO	Listening on port 64847
+WebDriver BiDi listening on ws://127.0.0.1:64842
+Read port: 64847
+1665684791807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileYqJ3XK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64842/devtools/browser/03509188-882e-4b23-9209-ff691f5a1ae3
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1498077384, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1498077384, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1498077384 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/dnight-Exit-shall-Braith-Then-why-vponst-is-proc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665685367496	geckodriver	INFO	Listening on 127.0.0.1:65030
+1665685367912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65031" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileV7V6C3"
+1665685368265	Marionette	INFO	Marionette enabled
+2022-10-13 14:22:48.288 plugin-container[47954:3183576] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:22:48.289 plugin-container[47954:3183576] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:22:48.296 plugin-container[47954:3183576] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:22:48.296 plugin-container[47954:3183576] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:22:48.296 plugin-container[47954:3183604] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:22:48.296 plugin-container[47954:3183604] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665685368432	Marionette	INFO	Listening on port 65037
+WebDriver BiDi listening on ws://127.0.0.1:65031
+Read port: 65037
+1665685368641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileV7V6C3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65031/devtools/browser/f507fae5-0033-45cf-aeca-45fd3330b493
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1615320021, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1615320021, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1615320021 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/dnight-Exit-shall-Braith-Then-why-vponst-is-proc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665685461657	geckodriver	INFO	Listening on 127.0.0.1:65143
+1665685462035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65144" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile5lujIm"
+1665685462384	Marionette	INFO	Marionette enabled
+1665685462411	Marionette	INFO	Listening on port 65150
+2022-10-13 14:24:22.413 plugin-container[48011:3184878] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:24:22.413 plugin-container[48011:3184878] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:24:22.427 plugin-container[48011:3184878] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:24:22.427 plugin-container[48011:3184878] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:24:22.427 plugin-container[48011:3184886] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:24:22.427 plugin-container[48011:3184886] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 65150
+WebDriver BiDi listening on ws://127.0.0.1:65144
+1665685462624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile5lujIm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65144/devtools/browser/c1720bc2-ed48-45b5-9bfb-9a589b5c91a8
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=281471032, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=281471032, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=281471032 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/dnight-Exit-shall-Braith-Then-why-vponst-is-proc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665685575244	geckodriver	INFO	Listening on 127.0.0.1:65260
+1665685575656	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65261" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile5ZEhzJ"
+1665685576004	Marionette	INFO	Marionette enabled
+1665685576036	Marionette	INFO	Listening on port 65267
+2022-10-13 14:26:16.042 plugin-container[48076:3186573] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:26:16.043 plugin-container[48076:3186573] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:26:16.066 plugin-container[48076:3186573] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:26:16.066 plugin-container[48076:3186573] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:26:16.067 plugin-container[48076:3186571] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:26:16.067 plugin-container[48076:3186571] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 65267
+WebDriver BiDi listening on ws://127.0.0.1:65261
+1665685576246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile5ZEhzJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65261/devtools/browser/4c9360b1-2583-4b15-98a1-6c1131f1269b
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=8&cb=1284212467, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=8&cb=1284212467, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=8&cb=1284212467 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/dnight-Exit-shall-Braith-Then-why-vponst-is-proc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: http://realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: http://realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://realtor.ca/dnight-Exit-shall-Braith-Then-why-vponst-is-proc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-10-13 18:26:40.770 plugin-container[48096:3187293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 18:26:40.770 plugin-container[48096:3187293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 18:26:40.773 plugin-container[48096:3187293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 18:26:40.773 plugin-container[48096:3187293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 18:26:40.773 plugin-container[48096:3187301] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 18:26:40.773 plugin-container[48096:3187301] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: http://static.geetest.com/static/js/fullpage.9.1.0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.realtor.ca/dnight-Exit-shall-Braith-Then-why-vponst-is-proc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.1.0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 391))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:779:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:660:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1041:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:581:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1041, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1041))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:367:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 391))
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 391))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:779:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:660:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:367:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1041:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:581:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1041, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1041))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:367:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+1665685667847	Marionette	INFO	Stopped listening on port 65037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665685670014	Marionette	INFO	Stopped listening on port 64847
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665685672184	Marionette	INFO	Stopped listening on port 65150
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665685674170	Marionette	INFO	Stopped listening on port 65267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665685695864	geckodriver	INFO	Listening on 127.0.0.1:65483
+1665685696279	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65484" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileWtwys0"
+1665685696627	Marionette	INFO	Marionette enabled
+2022-10-13 14:28:16.651 plugin-container[48160:3188981] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:28:16.651 plugin-container[48160:3188981] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:28:16.657 plugin-container[48160:3188981] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:28:16.657 plugin-container[48160:3188981] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:28:16.657 plugin-container[48160:3188983] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:28:16.657 plugin-container[48160:3188983] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665685696794	Marionette	INFO	Listening on port 65489
+Read port: 65489
+WebDriver BiDi listening on ws://127.0.0.1:65484
+1665685696883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileWtwys0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65484/devtools/browser/5a9c718f-a8e1-4638-a08c-4e12f73ceb79
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/dnight-Exit-shall-Braith-Then-why-vponst-is-proc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.1.0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665685724406	geckodriver	INFO	Listening on 127.0.0.1:49619
+1665685724836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49620" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile274A43"
+2022-10-13 14:28:45.162 plugin-container[48198:3189820] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:28:45.162 plugin-container[48198:3189820] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:28:45.164 plugin-container[48198:3189820] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:28:45.165 plugin-container[48198:3189820] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:28:45.165 plugin-container[48198:3189818] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:28:45.165 plugin-container[48198:3189818] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665685725167	Marionette	INFO	Marionette enabled
+1665685725190	Marionette	INFO	Listening on port 49625
+Read port: 49625
+WebDriver BiDi listening on ws://127.0.0.1:49620
+1665685725417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile274A43/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49620/devtools/browser/65d3b227-f677-4f90-92b0-a480c27de63e
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/dnight-Exit-shall-Braith-Then-why-vponst-is-proc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.1.0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665685781704	geckodriver	INFO	Listening on 127.0.0.1:50340
+1665685782118	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50341" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileFIZHnf"
+2022-10-13 14:29:42.443 plugin-container[48242:3190876] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:29:42.443 plugin-container[48242:3190876] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:29:42.446 plugin-container[48242:3190876] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:29:42.447 plugin-container[48242:3190876] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:29:42.447 plugin-container[48242:3190900] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:29:42.447 plugin-container[48242:3190900] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665685782449	Marionette	INFO	Marionette enabled
+1665685782471	Marionette	INFO	Listening on port 50346
+Read port: 50346
+WebDriver BiDi listening on ws://127.0.0.1:50341
+1665685782695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileFIZHnf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50341/devtools/browser/bb31e574-dfc5-4112-9ea1-80621da6899e
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.realtor.ca/dnight-Exit-shall-Braith-Then-why-vponst-is-proc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.1.0.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665685817431	Marionette	INFO	Stopped listening on port 49625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665685821434	Marionette	INFO	Stopped listening on port 65489
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665685823682	Marionette	INFO	Stopped listening on port 50346
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665686008930	geckodriver	INFO	Listening on 127.0.0.1:51096
+1665686009340	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51097" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile4LC68s"
+2022-10-13 14:33:29.665 plugin-container[48358:3193772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:33:29.665 plugin-container[48358:3193772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686009672	Marionette	INFO	Marionette enabled
+2022-10-13 14:33:29.696 plugin-container[48358:3193772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:33:29.696 plugin-container[48358:3193772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:33:29.696 plugin-container[48358:3193774] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:33:29.696 plugin-container[48358:3193774] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686009697	Marionette	INFO	Listening on port 51102
+WebDriver BiDi listening on ws://127.0.0.1:51097
+Read port: 51102
+1665686009844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile4LC68s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51097/devtools/browser/ac3bc193-b1a1-4b98-9b12-c58f46eba351
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665686059216	geckodriver	INFO	Listening on 127.0.0.1:51147
+1665686059631	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51148" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileEbf3TV"
+2022-10-13 14:34:19.962 plugin-container[48402:3194554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:34:19.962 plugin-container[48402:3194554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:34:19.965 plugin-container[48402:3194554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:34:19.965 plugin-container[48402:3194554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:34:19.965 plugin-container[48402:3194559] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:34:19.965 plugin-container[48402:3194559] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686059968	Marionette	INFO	Marionette enabled
+1665686059990	Marionette	INFO	Listening on port 51153
+Read port: 51153
+WebDriver BiDi listening on ws://127.0.0.1:51148
+1665686060220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileEbf3TV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51148/devtools/browser/15b84bf7-4009-4039-94a4-8e0f0d51ab24
+1665686101975	geckodriver	INFO	Listening on 127.0.0.1:51219
+1665686102391	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51220" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileLG5wIz"
+1665686102746	Marionette	INFO	Marionette enabled
+2022-10-13 14:35:02.774 plugin-container[48455:3195604] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:35:02.775 plugin-container[48455:3195604] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:35:02.779 plugin-container[48455:3195604] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:35:02.779 plugin-container[48455:3195604] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686102779	Marionette	INFO	Listening on port 51225
+2022-10-13 14:35:02.780 plugin-container[48455:3195611] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:35:02.780 plugin-container[48455:3195611] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51225
+WebDriver BiDi listening on ws://127.0.0.1:51220
+1665686102993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileLG5wIz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51220/devtools/browser/603facd9-f82b-45d5-8b68-8c2e3c4766f9
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 391))
+1665686118006	Marionette	INFO	Stopped listening on port 51102
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665686119780	Marionette	INFO	Stopped listening on port 51153
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665686122164	Marionette	INFO	Stopped listening on port 51225
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665686162782	geckodriver	INFO	Listening on 127.0.0.1:51288
+1665686163204	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51289" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilejZBCai"
+2022-10-13 14:36:03.539 plugin-container[48508:3196653] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:36:03.539 plugin-container[48508:3196653] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:36:03.542 plugin-container[48508:3196653] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:36:03.542 plugin-container[48508:3196653] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:36:03.542 plugin-container[48508:3196655] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:36:03.542 plugin-container[48508:3196655] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686163545	Marionette	INFO	Marionette enabled
+1665686163569	Marionette	INFO	Listening on port 51294
+Read port: 51294
+WebDriver BiDi listening on ws://127.0.0.1:51289
+1665686163793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilejZBCai/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51289/devtools/browser/51b4c9c4-6d01-404c-9693-70b797393241
+1665686173103	geckodriver	INFO	Listening on 127.0.0.1:51336
+1665686173534	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51337" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileP5IYgw"
+2022-10-13 14:36:13.895 plugin-container[48544:3197118] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:36:13.895 plugin-container[48544:3197118] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:36:13.898 plugin-container[48544:3197118] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:36:13.898 plugin-container[48544:3197118] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:36:13.898 plugin-container[48544:3197116] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:36:13.898 plugin-container[48544:3197116] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686173902	Marionette	INFO	Marionette enabled
+1665686173925	Marionette	INFO	Listening on port 51342
+Read port: 51342
+WebDriver BiDi listening on ws://127.0.0.1:51337
+1665686174159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileP5IYgw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51337/devtools/browser/786606e7-c018-41ec-bd53-ccd8788266d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665686244488	geckodriver	INFO	Listening on 127.0.0.1:51394
+1665686244906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51395" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileaiWU0A"
+1665686245295	Marionette	INFO	Marionette enabled
+2022-10-13 14:37:25.322 plugin-container[48586:3198075] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:37:25.323 plugin-container[48586:3198075] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:37:25.329 plugin-container[48586:3198075] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:37:25.329 plugin-container[48586:3198075] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:37:25.329 plugin-container[48586:3198073] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:37:25.329 plugin-container[48586:3198073] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686245331	Marionette	INFO	Listening on port 51400
+Read port: 51400
+WebDriver BiDi listening on ws://127.0.0.1:51395
+1665686245541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileaiWU0A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51395/devtools/browser/e5cd5503-3058-4f64-afb0-d0248d9c15f1
+1665686275841	geckodriver	INFO	Listening on 127.0.0.1:51446
+1665686276269	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51447" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileRA0Ibf"
+2022-10-13 14:37:56.603 plugin-container[48621:3198708] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:37:56.604 plugin-container[48621:3198708] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686276605	Marionette	INFO	Marionette enabled
+2022-10-13 14:37:56.626 plugin-container[48621:3198708] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:37:56.627 plugin-container[48621:3198708] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:37:56.627 plugin-container[48621:3198729] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:37:56.627 plugin-container[48621:3198729] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686276629	Marionette	INFO	Listening on port 51452
+WebDriver BiDi listening on ws://127.0.0.1:51447
+Read port: 51452
+1665686276848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileRA0Ibf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51447/devtools/browser/added505-8ae0-40e7-8e28-b76cf1430fc1
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 391))
+1665686285536	Marionette	INFO	Stopped listening on port 51452
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665686287800	Marionette	INFO	Stopped listening on port 51400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665686289898	Marionette	INFO	Stopped listening on port 51342
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665686292778	Marionette	INFO	Stopped listening on port 51294
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665686762397	geckodriver	INFO	Listening on 127.0.0.1:53441
+1665686762818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53442" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile5enmmU"
+2022-10-13 14:46:03.148 plugin-container[48745:3202753] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:46:03.148 plugin-container[48745:3202753] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:46:03.152 plugin-container[48745:3202753] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:46:03.152 plugin-container[48745:3202753] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:46:03.153 plugin-container[48745:3202777] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:46:03.153 plugin-container[48745:3202777] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686763157	Marionette	INFO	Marionette enabled
+1665686763181	Marionette	INFO	Listening on port 53451
+Read port: 53451
+WebDriver BiDi listening on ws://127.0.0.1:53442
+1665686763336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile5enmmU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53442/devtools/browser/352303b9-2ec0-4759-ae99-bd02bf0ef3c5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665686807933	geckodriver	INFO	Listening on 127.0.0.1:53672
+1665686808355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53673" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilebtPVDY"
+2022-10-13 14:46:48.690 plugin-container[48783:3203535] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:46:48.690 plugin-container[48783:3203535] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686808696	Marionette	INFO	Marionette enabled
+2022-10-13 14:46:48.716 plugin-container[48783:3203535] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:46:48.716 plugin-container[48783:3203535] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:46:48.716 plugin-container[48783:3203562] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:46:48.716 plugin-container[48783:3203562] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686808721	Marionette	INFO	Listening on port 53682
+Read port: 53682
+WebDriver BiDi listening on ws://127.0.0.1:53673
+1665686808934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilebtPVDY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53673/devtools/browser/6273b5eb-ddf5-4002-9d3f-66799aafcaa4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665686830880	Marionette	INFO	Stopped listening on port 53682
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665686833250	Marionette	INFO	Stopped listening on port 53451
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967298/customhighlighter59, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nunhighlightNode/<@resource://devtools/client/inspector/boxmodel/actions/box-model-highlighter.js:81:36\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\nonDOMNodeMouseOut@resource://devtools/client/inspector/grids/components/GridItem.js:147:46\nonMouseOut@resource://devtools/client/shared/components/reps/reps/element-node.js:145:45\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:442:9\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\nflushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.jsm:2271:7\nssi_onQuitApplicationGranted/<@resource:///modules/sessionstore/SessionStore.jsm:2180:32\ntrigger@resource://gre/modules/AsyncShutdown.jsm:748:23\n_wait@resource://gre/modules/AsyncShutdown.jsm:900:15\nwait@resource://gre/modules/AsyncShutdown.jsm:881:34\nobserve@resource://gre/modules/AsyncShutdown.jsm:558:10\n", "resource://devtools/shared/protocol/Front.js", 107))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://autofill/FormAutofillChild.jsm, line 94: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1665686904606	geckodriver	INFO	Listening on 127.0.0.1:53996
+1665686905024	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53997" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilecn7sTD"
+2022-10-13 14:48:25.361 plugin-container[48847:3204903] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:48:25.362 plugin-container[48847:3204903] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:48:25.365 plugin-container[48847:3204903] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:48:25.365 plugin-container[48847:3204903] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:48:25.365 plugin-container[48847:3204908] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:48:25.366 plugin-container[48847:3204908] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686905368	Marionette	INFO	Marionette enabled
+1665686905394	Marionette	INFO	Listening on port 54002
+Read port: 54002
+WebDriver BiDi listening on ws://127.0.0.1:53997
+1665686905607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilecn7sTD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53997/devtools/browser/74ff153b-1dfd-4277-82d2-5e215e246f9b
+1665686927348	geckodriver	INFO	Listening on 127.0.0.1:54047
+1665686927780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54048" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileoLO1Ss"
+2022-10-13 14:48:48.107 plugin-container[48877:3205498] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:48:48.107 plugin-container[48877:3205498] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:48:48.110 plugin-container[48877:3205498] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:48:48.110 plugin-container[48877:3205498] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:48:48.110 plugin-container[48877:3205503] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:48:48.110 plugin-container[48877:3205503] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686928114	Marionette	INFO	Marionette enabled
+1665686928139	Marionette	INFO	Listening on port 54055
+Read port: 54055
+WebDriver BiDi listening on ws://127.0.0.1:54048
+1665686928362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileoLO1Ss/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54048/devtools/browser/ec3d6591-ce02-4c11-9c38-e59646a96525
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665686942047	Marionette	INFO	Stopped listening on port 54055
+1665686944288	Marionette	INFO	Stopped listening on port 54002
+1665686996261	geckodriver	INFO	Listening on 127.0.0.1:54101
+1665686996680	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54102" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilenNIAg7"
+2022-10-13 14:49:57.001 plugin-container[48926:3206438] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:49:57.001 plugin-container[48926:3206438] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:49:57.005 plugin-container[48926:3206438] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:49:57.005 plugin-container[48926:3206438] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:49:57.005 plugin-container[48926:3206443] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:49:57.005 plugin-container[48926:3206443] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665686997008	Marionette	INFO	Marionette enabled
+1665686997033	Marionette	INFO	Listening on port 54107
+Read port: 54107
+WebDriver BiDi listening on ws://127.0.0.1:54102
+1665686997254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilenNIAg7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54102/devtools/browser/9a3a5121-bd8f-478f-a805-18f75022b70d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665687050534	geckodriver	INFO	Listening on 127.0.0.1:54155
+1665687050959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54156" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileKVog6E"
+2022-10-13 14:50:51.301 plugin-container[48963:3207207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:50:51.301 plugin-container[48963:3207207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:50:51.306 plugin-container[48963:3207207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:50:51.307 plugin-container[48963:3207207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:50:51.308 plugin-container[48963:3207214] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:50:51.308 plugin-container[48963:3207214] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665687051309	Marionette	INFO	Marionette enabled
+1665687051338	Marionette	INFO	Listening on port 54161
+Read port: 54161
+WebDriver BiDi listening on ws://127.0.0.1:54156
+1665687051546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileKVog6E/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54156/devtools/browser/89e79f00-8f0d-4fb3-9ab1-44cc25afca84
+1665687062884	Marionette	INFO	Stopped listening on port 54107
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665687064979	Marionette	INFO	Stopped listening on port 54161
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665687109390	geckodriver	INFO	Listening on 127.0.0.1:54214
+1665687109819	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54215" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilejTVjGG"
+2022-10-13 14:51:50.184 plugin-container[49033:3208343] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:51:50.185 plugin-container[49033:3208343] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:51:50.188 plugin-container[49033:3208343] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:51:50.188 plugin-container[49033:3208343] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:51:50.188 plugin-container[49033:3208341] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:51:50.188 plugin-container[49033:3208341] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665687110191	Marionette	INFO	Marionette enabled
+1665687110214	Marionette	INFO	Listening on port 54220
+Read port: 54220
+WebDriver BiDi listening on ws://127.0.0.1:54215
+1665687110424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilejTVjGG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54215/devtools/browser/e93b45b7-d0c2-4141-b398-13a5dbd4c6df
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665687118952	Marionette	INFO	Stopped listening on port 54220
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665687127934	geckodriver	INFO	Listening on 127.0.0.1:54264
+1665687128358	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54265" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile2yLsN1"
+2022-10-13 14:52:08.691 plugin-container[49076:3208889] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:52:08.692 plugin-container[49076:3208889] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:52:08.695 plugin-container[49076:3208889] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:52:08.695 plugin-container[49076:3208889] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 14:52:08.695 plugin-container[49076:3208887] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 14:52:08.695 plugin-container[49076:3208887] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665687128698	Marionette	INFO	Marionette enabled
+1665687128720	Marionette	INFO	Listening on port 54270
+Read port: 54270
+WebDriver BiDi listening on ws://127.0.0.1:54265
+1665687128950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile2yLsN1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54265/devtools/browser/6abce5db-64c1-4fa6-8f40-fdbfadc66029
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665690594668	geckodriver	INFO	Listening on 127.0.0.1:54893
+1665690594968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54894" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilecBo43W"
+2022-10-13 15:49:55.313 plugin-container[49419:3234056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 15:49:55.313 plugin-container[49419:3234056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665690595321	Marionette	INFO	Marionette enabled
+2022-10-13 15:49:55.345 plugin-container[49419:3234056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 15:49:55.345 plugin-container[49419:3234056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 15:49:55.345 plugin-container[49419:3234083] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 15:49:55.345 plugin-container[49419:3234083] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665690595347	Marionette	INFO	Listening on port 54901
+Read port: 54901
+WebDriver BiDi listening on ws://127.0.0.1:54894
+1665690595478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilecBo43W/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54894/devtools/browser/3267ebaf-62dd-4c73-83af-971f1f22cd87
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 391))
+JavaScript error: resource://devtools/client/shared/undo.js, line 144: TypeError: controllerWindow is null
+1665698856722	Marionette	INFO	Stopped listening on port 54270
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665698860516	Marionette	INFO	Stopped listening on port 54901
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665701250264	geckodriver	INFO	Listening on 127.0.0.1:55452
+1665701250688	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55453" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileBUW7Rl"
+2022-10-13 18:47:31.111 plugin-container[49955:3270851] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 18:47:31.111 plugin-container[49955:3270851] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665701251120	Marionette	INFO	Marionette enabled
+2022-10-13 18:47:31.140 plugin-container[49955:3270851] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 18:47:31.141 plugin-container[49955:3270851] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 18:47:31.141 plugin-container[49955:3270855] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 18:47:31.141 plugin-container[49955:3270855] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665701251148	Marionette	INFO	Listening on port 55458
+Read port: 55458
+WebDriver BiDi listening on ws://127.0.0.1:55453
+1665701251413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileBUW7Rl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55453/devtools/browser/1b2ca0f6-074a-4149-a694-b608dbcb11dd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665701261016	Marionette	INFO	Stopped listening on port 55458
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665778222293	geckodriver	INFO	Listening on 127.0.0.1:49459
+1665778222721	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49460" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileeU2kS6"
+2022-10-14 16:10:23.149 plugin-container[2941:14235] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-14 16:10:23.150 plugin-container[2941:14235] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665778223169	Marionette	INFO	Marionette enabled
+1665778223198	Marionette	INFO	Listening on port 49467
+2022-10-14 16:10:23.242 plugin-container[2941:14235] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-14 16:10:23.242 plugin-container[2941:14235] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-14 16:10:23.242 plugin-container[2941:14233] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-14 16:10:23.242 plugin-container[2941:14233] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49467
+WebDriver BiDi listening on ws://127.0.0.1:49460
+1665778223404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileeU2kS6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49460/devtools/browser/c2c68356-4911-481e-b22e-accec2e8adf1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665778340417	geckodriver	INFO	Listening on 127.0.0.1:49548
+1665778340836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49549" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileSOloWj"
+2022-10-14 16:12:21.162 plugin-container[3005:16172] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-14 16:12:21.162 plugin-container[3005:16172] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665778341165	Marionette	INFO	Marionette enabled
+2022-10-14 16:12:21.185 plugin-container[3005:16172] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-14 16:12:21.185 plugin-container[3005:16172] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-14 16:12:21.186 plugin-container[3005:16177] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-14 16:12:21.186 plugin-container[3005:16177] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665778341188	Marionette	INFO	Listening on port 49556
+Read port: 49556
+WebDriver BiDi listening on ws://127.0.0.1:49549
+1665778341413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileSOloWj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49549/devtools/browser/403295b7-738d-4725-928e-a081b8a33929
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665778353094	Marionette	INFO	Stopped listening on port 49556
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665778356759	Marionette	INFO	Stopped listening on port 49467
+1665780308521	geckodriver	INFO	Listening on 127.0.0.1:49883
+1665780308940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49884" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileUyB9tR"
+2022-10-14 16:45:09.276 plugin-container[3283:31603] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-14 16:45:09.276 plugin-container[3283:31603] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-14 16:45:09.282 plugin-container[3283:31603] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-14 16:45:09.282 plugin-container[3283:31603] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-14 16:45:09.282 plugin-container[3283:31606] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-14 16:45:09.282 plugin-container[3283:31606] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665780309290	Marionette	INFO	Marionette enabled
+1665780309319	Marionette	INFO	Listening on port 49891
+Read port: 49891
+WebDriver BiDi listening on ws://127.0.0.1:49884
+1665780309453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileUyB9tR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49884/devtools/browser/800dca69-1c70-48a3-ad86-2d3f69c89aab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665808801656	geckodriver	INFO	Listening on 127.0.0.1:52871
+1665808802085	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52872" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileJqGwYV"
+2022-10-15 00:40:02.488 plugin-container[5348:198763] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:40:02.488 plugin-container[5348:198763] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665808802491	Marionette	INFO	Marionette enabled
+1665808802519	Marionette	INFO	Listening on port 52881
+2022-10-15 00:40:02.578 plugin-container[5348:198763] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:40:02.578 plugin-container[5348:198763] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 00:40:02.579 plugin-container[5348:198761] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:40:02.579 plugin-container[5348:198761] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 52881
+WebDriver BiDi listening on ws://127.0.0.1:52872
+1665808802731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileJqGwYV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52872/devtools/browser/5b3427df-8a12-47a7-9b1a-81901da516f0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665808898559	geckodriver	INFO	Listening on 127.0.0.1:53175
+1665808898976	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53176" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile3cWzvw"
+2022-10-15 00:41:39.306 plugin-container[5426:200923] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:41:39.306 plugin-container[5426:200923] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665808899309	Marionette	INFO	Marionette enabled
+2022-10-15 00:41:39.310 plugin-container[5426:200923] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:41:39.310 plugin-container[5426:200923] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 00:41:39.310 plugin-container[5426:200925] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:41:39.310 plugin-container[5426:200925] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665808899332	Marionette	INFO	Listening on port 53181
+Read port: 53181
+WebDriver BiDi listening on ws://127.0.0.1:53176
+1665808899556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile3cWzvw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53176/devtools/browser/e21f6a0b-640c-4720-96dc-ed993d4a4783
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665809006134	geckodriver	INFO	Listening on 127.0.0.1:53317
+1665809006558	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53318" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileBRwxnY"
+2022-10-15 00:43:26.917 plugin-container[5825:202839] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:43:26.917 plugin-container[5825:202839] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665809006918	Marionette	INFO	Marionette enabled
+2022-10-15 00:43:26.920 plugin-container[5825:202839] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:43:26.920 plugin-container[5825:202839] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 00:43:26.921 plugin-container[5825:202837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:43:26.921 plugin-container[5825:202837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665809006942	Marionette	INFO	Listening on port 53325
+Read port: 53325
+WebDriver BiDi listening on ws://127.0.0.1:53318
+1665809007160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileBRwxnY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53318/devtools/browser/9956fea9-9cec-4ace-831e-3b31e2523d91
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665809012325	Marionette	INFO	Stopped listening on port 49891
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665809014380	Marionette	INFO	Stopped listening on port 52881
+1665809016531	Marionette	INFO	Stopped listening on port 53181
+1665809171454	Marionette	INFO	Stopped listening on port 53325
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665809275644	geckodriver	INFO	Listening on 127.0.0.1:53537
+1665809276053	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53538" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile1H7pYC"
+2022-10-15 00:47:56.418 plugin-container[6306:206793] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:47:56.419 plugin-container[6306:206793] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665809276422	Marionette	INFO	Marionette enabled
+2022-10-15 00:47:56.454 plugin-container[6306:206793] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:47:56.454 plugin-container[6306:206793] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665809276456	Marionette	INFO	Listening on port 53543
+2022-10-15 00:47:56.457 plugin-container[6306:206795] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:47:56.457 plugin-container[6306:206795] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 53543
+WebDriver BiDi listening on ws://127.0.0.1:53538
+1665809276640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile1H7pYC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53538/devtools/browser/9675682e-94b4-4cdd-be59-6afc32d8b9b1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665809779768	geckodriver	INFO	Listening on 127.0.0.1:53750
+1665809780175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53751" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile8KXy6S"
+2022-10-15 00:56:20.530 plugin-container[6720:211969] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:56:20.530 plugin-container[6720:211969] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665809780531	Marionette	INFO	Marionette enabled
+2022-10-15 00:56:20.544 plugin-container[6720:211969] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:56:20.544 plugin-container[6720:211969] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 00:56:20.545 plugin-container[6720:211994] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:56:20.545 plugin-container[6720:211994] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665809780560	Marionette	INFO	Listening on port 53756
+Read port: 53756
+WebDriver BiDi listening on ws://127.0.0.1:53751
+1665809780758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile8KXy6S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53751/devtools/browser/8bdbc477-1a52-457d-b0c0-a5d49a592949
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665809858668	geckodriver	INFO	Listening on 127.0.0.1:53887
+1665809859089	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53888" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilehnx24Y"
+2022-10-15 00:57:39.423 plugin-container[6748:212821] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:57:39.423 plugin-container[6748:212821] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 00:57:39.426 plugin-container[6748:212821] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:57:39.426 plugin-container[6748:212821] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 00:57:39.426 plugin-container[6748:212827] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 00:57:39.426 plugin-container[6748:212827] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665809859432	Marionette	INFO	Marionette enabled
+1665809859454	Marionette	INFO	Listening on port 53893
+Read port: 53893
+WebDriver BiDi listening on ws://127.0.0.1:53888
+1665809859673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilehnx24Y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53888/devtools/browser/9f392a52-faff-4d2f-8a98-ef6f71a7bc7d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665809872949	Marionette	INFO	Stopped listening on port 53756
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665809876431	Marionette	INFO	Stopped listening on port 53893
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665809879083	Marionette	INFO	Stopped listening on port 53543
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665810361046	geckodriver	INFO	Listening on 127.0.0.1:54032
+1665810361467	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54033" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile0CM8ki"
+2022-10-15 01:06:01.830 plugin-container[6809:216254] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:06:01.831 plugin-container[6809:216254] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665810361838	Marionette	INFO	Marionette enabled
+2022-10-15 01:06:01.860 plugin-container[6809:216254] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:06:01.860 plugin-container[6809:216254] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:06:01.860 plugin-container[6809:216252] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:06:01.860 plugin-container[6809:216252] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665810361861	Marionette	INFO	Listening on port 54038
+Read port: 54038
+WebDriver BiDi listening on ws://127.0.0.1:54033
+1665810362119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile0CM8ki/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54033/devtools/browser/03fa5478-16b9-4bb7-8a65-9cc3699bae71
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665810526996	geckodriver	INFO	Listening on 127.0.0.1:54180
+1665810527418	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54181" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilepEPJGB"
+2022-10-15 01:08:47.778 plugin-container[7176:218471] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:08:47.778 plugin-container[7176:218471] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:08:47.783 plugin-container[7176:218471] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:08:47.783 plugin-container[7176:218471] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:08:47.784 plugin-container[7176:218476] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:08:47.784 plugin-container[7176:218476] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665810527791	Marionette	INFO	Marionette enabled
+1665810527817	Marionette	INFO	Listening on port 54186
+Read port: 54186
+WebDriver BiDi listening on ws://127.0.0.1:54181
+1665810527997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilepEPJGB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54181/devtools/browser/e0950acb-0636-450d-8189-fb15a686c76e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665810537515	Marionette	INFO	Stopped listening on port 54186
+1665810539845	Marionette	INFO	Stopped listening on port 54038
+1665810608742	geckodriver	INFO	Listening on 127.0.0.1:54312
+1665810609172	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54313" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilenCC1FO"
+2022-10-15 01:10:09.504 plugin-container[7213:219528] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:10:09.504 plugin-container[7213:219528] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:10:09.507 plugin-container[7213:219528] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:10:09.507 plugin-container[7213:219528] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:10:09.508 plugin-container[7213:219552] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:10:09.508 plugin-container[7213:219552] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665810609513	Marionette	INFO	Marionette enabled
+1665810609534	Marionette	INFO	Listening on port 54318
+Read port: 54318
+WebDriver BiDi listening on ws://127.0.0.1:54313
+1665810609859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilenCC1FO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54313/devtools/browser/b5e27c12-692c-40c9-88c0-c77e6de88ed0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665810648624	geckodriver	INFO	Listening on 127.0.0.1:54447
+1665810649036	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54448" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileQW1rDM"
+2022-10-15 01:10:49.360 plugin-container[7245:220200] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:10:49.360 plugin-container[7245:220200] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:10:49.364 plugin-container[7245:220200] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:10:49.364 plugin-container[7245:220200] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:10:49.365 plugin-container[7245:220224] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:10:49.365 plugin-container[7245:220224] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665810649368	Marionette	INFO	Marionette enabled
+1665810649391	Marionette	INFO	Listening on port 54453
+Read port: 54453
+WebDriver BiDi listening on ws://127.0.0.1:54448
+1665810649630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileQW1rDM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54448/devtools/browser/b5c12e15-c39b-4777-8299-713e68fe5353
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665810668066	Marionette	INFO	Stopped listening on port 54453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665810670566	Marionette	INFO	Stopped listening on port 54318
+1665810673513	geckodriver	INFO	Listening on 127.0.0.1:54582
+1665810673936	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54583" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileZumjr9"
+2022-10-15 01:11:14.271 plugin-container[7279:220925] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:11:14.272 plugin-container[7279:220925] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665810674280	Marionette	INFO	Marionette enabled
+2022-10-15 01:11:14.302 plugin-container[7279:220925] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:11:14.302 plugin-container[7279:220925] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:11:14.302 plugin-container[7279:220923] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:11:14.302 plugin-container[7279:220923] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665810674303	Marionette	INFO	Listening on port 54588
+Read port: 54588
+WebDriver BiDi listening on ws://127.0.0.1:54583
+1665810674521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileZumjr9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54583/devtools/browser/0006c2f6-50d7-4f94-8b74-c403e9042563
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665810693673	geckodriver	INFO	Listening on 127.0.0.1:54713
+1665810694077	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54714" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile9omWxR"
+2022-10-15 01:11:34.401 plugin-container[7303:221435] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:11:34.401 plugin-container[7303:221435] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:11:34.404 plugin-container[7303:221435] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:11:34.404 plugin-container[7303:221435] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:11:34.404 plugin-container[7303:221433] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:11:34.404 plugin-container[7303:221433] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665810694410	Marionette	INFO	Marionette enabled
+1665810694433	Marionette	INFO	Listening on port 54719
+Read port: 54719
+WebDriver BiDi listening on ws://127.0.0.1:54714
+1665810694742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile9omWxR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54714/devtools/browser/dc27f0a7-6fd0-4e1c-b646-47c846f262b4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665810768632	Marionette	INFO	Stopped listening on port 54719
+1665810771320	Marionette	INFO	Stopped listening on port 54588
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665810926074	geckodriver	INFO	Listening on 127.0.0.1:54875
+1665810926488	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54876" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile7aoTmk"
+2022-10-15 01:15:26.860 plugin-container[7676:224519] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:15:26.861 plugin-container[7676:224519] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:15:26.864 plugin-container[7676:224519] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:15:26.864 plugin-container[7676:224519] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:15:26.864 plugin-container[7676:224517] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:15:26.864 plugin-container[7676:224517] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665810926865	Marionette	INFO	Marionette enabled
+1665810926897	Marionette	INFO	Listening on port 54881
+Read port: 54881
+WebDriver BiDi listening on ws://127.0.0.1:54876
+1665810927032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile7aoTmk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54876/devtools/browser/9cb1c162-ed99-4fea-a5bc-5491827ab181
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665811281937	geckodriver	INFO	Listening on 127.0.0.1:55034
+1665811282359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55035" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileBwYP5r"
+1665811282707	Marionette	INFO	Marionette enabled
+2022-10-15 01:21:22.723 plugin-container[7751:227235] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:21:22.723 plugin-container[7751:227235] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:21:22.727 plugin-container[7751:227235] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:21:22.727 plugin-container[7751:227235] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:21:22.727 plugin-container[7751:227262] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:21:22.727 plugin-container[7751:227262] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665811282731	Marionette	INFO	Listening on port 55040
+Read port: 55040
+WebDriver BiDi listening on ws://127.0.0.1:55035
+1665811282969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileBwYP5r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55035/devtools/browser/bd8a1c71-4300-4f74-ab74-b98aa79a40e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665811331884	geckodriver	INFO	Listening on 127.0.0.1:55185
+1665811332306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55186" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilellqdik"
+2022-10-15 01:22:12.632 plugin-container[7788:227970] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:22:12.633 plugin-container[7788:227970] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:22:12.635 plugin-container[7788:227970] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:22:12.636 plugin-container[7788:227970] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:22:12.636 plugin-container[7788:227975] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:22:12.636 plugin-container[7788:227975] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665811332641	Marionette	INFO	Marionette enabled
+1665811332666	Marionette	INFO	Listening on port 55191
+Read port: 55191
+WebDriver BiDi listening on ws://127.0.0.1:55186
+1665811332898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilellqdik/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55186/devtools/browser/6530d228-2903-4ba5-ae70-f42df45ba35a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665811432375	Marionette	INFO	Stopped listening on port 54881
+1665811434434	Marionette	INFO	Stopped listening on port 55040
+1665811436245	Marionette	INFO	Stopped listening on port 55191
+1665811898736	geckodriver	INFO	Listening on 127.0.0.1:55365
+1665811899153	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55366" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile4lRkfP"
+1665811899538	Marionette	INFO	Marionette enabled
+2022-10-15 01:31:39.552 plugin-container[7878:232040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:31:39.553 plugin-container[7878:232040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665811899570	Marionette	INFO	Listening on port 55371
+2022-10-15 01:31:39.594 plugin-container[7878:232040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:31:39.594 plugin-container[7878:232040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:31:39.595 plugin-container[7878:232048] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:31:39.595 plugin-container[7878:232048] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 55371
+WebDriver BiDi listening on ws://127.0.0.1:55366
+1665811899712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile4lRkfP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55366/devtools/browser/7e2f196e-ee55-4c26-9a6f-7578ecae60ea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665811962083	geckodriver	INFO	Listening on 127.0.0.1:55509
+1665811962504	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55510" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilecSpGXd"
+2022-10-15 01:32:42.820 plugin-container[7918:232963] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:32:42.820 plugin-container[7918:232963] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:32:42.823 plugin-container[7918:232963] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:32:42.823 plugin-container[7918:232963] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:32:42.824 plugin-container[7918:232961] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:32:42.824 plugin-container[7918:232961] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665811962828	Marionette	INFO	Marionette enabled
+1665811962850	Marionette	INFO	Listening on port 55515
+Read port: 55515
+WebDriver BiDi listening on ws://127.0.0.1:55510
+1665811963117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilecSpGXd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55510/devtools/browser/5dcb97a4-4cca-4b07-b63c-b50425ac19ba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665811982108	geckodriver	INFO	Listening on 127.0.0.1:55644
+1665811982528	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55645" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileCJWglO"
+2022-10-15 01:33:02.844 plugin-container[7943:233515] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:33:02.845 plugin-container[7943:233515] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665811982852	Marionette	INFO	Marionette enabled
+2022-10-15 01:33:02.875 plugin-container[7943:233515] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:33:02.875 plugin-container[7943:233515] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:33:02.876 plugin-container[7943:233520] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:33:02.876 plugin-container[7943:233520] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665811982877	Marionette	INFO	Listening on port 55650
+Read port: 55650
+WebDriver BiDi listening on ws://127.0.0.1:55645
+1665811983205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileCJWglO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55645/devtools/browser/6e1215eb-4efa-4e8c-b1b0-56173816e2a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665812085508	geckodriver	INFO	Listening on 127.0.0.1:55715
+1665812085924	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55716" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileY516cS"
+1665812086262	Marionette	INFO	Marionette enabled
+2022-10-15 01:34:46.285 plugin-container[7979:234708] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:34:46.286 plugin-container[7979:234708] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:34:46.291 plugin-container[7979:234708] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:34:46.292 plugin-container[7979:234708] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:34:46.292 plugin-container[7979:234734] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:34:46.292 plugin-container[7979:234734] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665812086429	Marionette	INFO	Listening on port 55721
+Read port: 55721
+WebDriver BiDi listening on ws://127.0.0.1:55716
+1665812086518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileY516cS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55716/devtools/browser/7818d4ff-f05d-4d82-bb54-a6c1b4e05bf8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665812215699	geckodriver	INFO	Listening on 127.0.0.1:55781
+1665812216115	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55782" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileJ6GsZH"
+2022-10-15 01:36:56.452 plugin-container[8035:236069] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:36:56.453 plugin-container[8035:236069] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665812216458	Marionette	INFO	Marionette enabled
+1665812216484	Marionette	INFO	Listening on port 55787
+2022-10-15 01:36:56.489 plugin-container[8035:236069] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:36:56.489 plugin-container[8035:236069] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:36:56.489 plugin-container[8035:236066] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:36:56.489 plugin-container[8035:236066] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 55787
+WebDriver BiDi listening on ws://127.0.0.1:55782
+1665812216710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileJ6GsZH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55782/devtools/browser/efd4d834-dc9a-4b49-81f4-4486f0b54d68
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665812339429	Marionette	INFO	Stopped listening on port 55515
+1665812341684	Marionette	INFO	Stopped listening on port 55650
+1665812344001	Marionette	INFO	Stopped listening on port 55721
+1665812346759	Marionette	INFO	Stopped listening on port 55787
+1665812349768	Marionette	INFO	Stopped listening on port 55371
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665812845267	geckodriver	INFO	Listening on 127.0.0.1:55901
+1665812845689	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55902" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileq5oYVm"
+1665812846066	Marionette	INFO	Marionette enabled
+2022-10-15 01:47:26.076 plugin-container[8117:240333] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:47:26.078 plugin-container[8117:240333] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665812846100	Marionette	INFO	Listening on port 55907
+Read port: 55907
+2022-10-15 01:47:26.125 plugin-container[8117:240333] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:47:26.125 plugin-container[8117:240333] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 01:47:26.126 plugin-container[8117:240331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 01:47:26.126 plugin-container[8117:240331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55902
+1665812846247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileq5oYVm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55902/devtools/browser/5d729767-32aa-4d82-b017-7cba32a958ad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814582704	geckodriver	INFO	Listening on 127.0.0.1:56118
+1665814583127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56119" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilevR7Ype"
+2022-10-15 02:16:23.457 plugin-container[8285:252937] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:16:23.457 plugin-container[8285:252937] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814583460	Marionette	INFO	Marionette enabled
+2022-10-15 02:16:23.483 plugin-container[8285:252937] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:16:23.483 plugin-container[8285:252937] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:16:23.483 plugin-container[8285:252939] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:16:23.483 plugin-container[8285:252939] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814583484	Marionette	INFO	Listening on port 56124
+Read port: 56124
+WebDriver BiDi listening on ws://127.0.0.1:56119
+1665814583744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilevR7Ype/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56119/devtools/browser/2f376993-0e0e-49e3-ab6d-ac9fbcad10b7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814595802	geckodriver	INFO	Listening on 127.0.0.1:56186
+1665814596222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56187" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofiletiTa2p"
+2022-10-15 02:16:36.551 plugin-container[8313:253430] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:16:36.552 plugin-container[8313:253430] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:16:36.555 plugin-container[8313:253430] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:16:36.555 plugin-container[8313:253430] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:16:36.556 plugin-container[8313:253428] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:16:36.556 plugin-container[8313:253428] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814596559	Marionette	INFO	Marionette enabled
+1665814596583	Marionette	INFO	Listening on port 56192
+Read port: 56192
+WebDriver BiDi listening on ws://127.0.0.1:56187
+1665814596822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofiletiTa2p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56187/devtools/browser/04c8076c-935f-4b03-b718-391c2414a305
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814639790	geckodriver	INFO	Listening on 127.0.0.1:56252
+1665814640209	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56253" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileEbcqHh"
+2022-10-15 02:17:20.554 plugin-container[8351:254125] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:17:20.555 plugin-container[8351:254125] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814640559	Marionette	INFO	Marionette enabled
+2022-10-15 02:17:20.585 plugin-container[8351:254125] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:17:20.586 plugin-container[8351:254125] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:17:20.586 plugin-container[8351:254130] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:17:20.586 plugin-container[8351:254130] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814640587	Marionette	INFO	Listening on port 56258
+Read port: 56258
+WebDriver BiDi listening on ws://127.0.0.1:56253
+1665814640772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileEbcqHh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56253/devtools/browser/ca762c05-4b89-4b0b-8dc0-e0924a335962
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814656751	geckodriver	INFO	Listening on 127.0.0.1:56322
+1665814657169	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56323" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilez8SFHq"
+2022-10-15 02:17:37.501 plugin-container[8380:254738] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:17:37.501 plugin-container[8380:254738] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814657506	Marionette	INFO	Marionette enabled
+2022-10-15 02:17:37.506 plugin-container[8380:254738] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:17:37.507 plugin-container[8380:254738] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:17:37.507 plugin-container[8380:254743] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:17:37.507 plugin-container[8380:254743] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814657528	Marionette	INFO	Listening on port 56330
+Read port: 56330
+WebDriver BiDi listening on ws://127.0.0.1:56323
+1665814657758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilez8SFHq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56323/devtools/browser/25d55a4c-4ac3-4b7c-929a-d8fcd1049f2a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814682796	geckodriver	INFO	Listening on 127.0.0.1:56387
+1665814683214	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56388" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileUJSj7i"
+1665814683587	Marionette	INFO	Marionette enabled
+1665814683620	Marionette	INFO	Listening on port 56393
+Read port: 56393
+2022-10-15 02:18:03.631 plugin-container[8415:255372] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:18:03.632 plugin-container[8415:255372] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:18:03.662 plugin-container[8415:255372] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:18:03.662 plugin-container[8415:255372] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:18:03.662 plugin-container[8415:255410] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:18:03.662 plugin-container[8415:255410] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:56388
+1665814683933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileUJSj7i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56388/devtools/browser/d92ed7b6-423e-4474-8902-fe5d7b9aadea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814693756	Marionette	INFO	Stopped listening on port 56124
+1665814695536	Marionette	INFO	Stopped listening on port 55907
+1665814697572	Marionette	INFO	Stopped listening on port 56192
+1665814699902	Marionette	INFO	Stopped listening on port 56258
+1665814702060	Marionette	INFO	Stopped listening on port 56330
+1665814704352	Marionette	INFO	Stopped listening on port 56393
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665814735273	geckodriver	INFO	Listening on 127.0.0.1:56452
+1665814735693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56453" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileDMWbV0"
+2022-10-15 02:18:56.008 plugin-container[8451:256233] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:18:56.009 plugin-container[8451:256233] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:18:56.012 plugin-container[8451:256233] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:18:56.012 plugin-container[8451:256233] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:18:56.012 plugin-container[8451:256238] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:18:56.012 plugin-container[8451:256238] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814736015	Marionette	INFO	Marionette enabled
+1665814736038	Marionette	INFO	Listening on port 56458
+Read port: 56458
+WebDriver BiDi listening on ws://127.0.0.1:56453
+1665814736359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileDMWbV0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56453/devtools/browser/cc3df7b0-7a75-48e2-9649-8264f18ad232
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814760473	geckodriver	INFO	Listening on 127.0.0.1:56509
+1665814760900	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56510" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilebpwDrp"
+2022-10-15 02:19:21.227 plugin-container[8479:256799] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:19:21.227 plugin-container[8479:256799] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:19:21.230 plugin-container[8479:256799] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:19:21.230 plugin-container[8479:256799] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:19:21.230 plugin-container[8479:256806] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:19:21.230 plugin-container[8479:256806] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814761235	Marionette	INFO	Marionette enabled
+1665814761257	Marionette	INFO	Listening on port 56515
+Read port: 56515
+WebDriver BiDi listening on ws://127.0.0.1:56510
+1665814761483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilebpwDrp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56510/devtools/browser/142a6528-13bb-4753-8979-4df7b412b3ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814788201	geckodriver	INFO	Listening on 127.0.0.1:56571
+1665814788619	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56572" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilepyXxbF"
+2022-10-15 02:19:48.953 plugin-container[8509:257374] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:19:48.954 plugin-container[8509:257374] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814788954	Marionette	INFO	Marionette enabled
+2022-10-15 02:19:48.978 plugin-container[8509:257374] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:19:48.978 plugin-container[8509:257374] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:19:48.979 plugin-container[8509:257403] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:19:48.979 plugin-container[8509:257403] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814788980	Marionette	INFO	Listening on port 56577
+Read port: 56577
+WebDriver BiDi listening on ws://127.0.0.1:56572
+1665814789212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilepyXxbF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56572/devtools/browser/c038105e-a22b-4587-a554-0624f5a34eb9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814820119	geckodriver	INFO	Listening on 127.0.0.1:56635
+1665814820542	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56636" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilenkJu3M"
+2022-10-15 02:20:20.881 plugin-container[8536:258030] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:20:20.881 plugin-container[8536:258030] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:20:20.884 plugin-container[8536:258030] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:20:20.884 plugin-container[8536:258030] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:20:20.884 plugin-container[8536:258035] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:20:20.884 plugin-container[8536:258035] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814820887	Marionette	INFO	Marionette enabled
+1665814820911	Marionette	INFO	Listening on port 56641
+Read port: 56641
+WebDriver BiDi listening on ws://127.0.0.1:56636
+1665814821128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilenkJu3M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56636/devtools/browser/145a94a0-9884-4f12-b89c-c489151b1ed5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814837933	geckodriver	INFO	Listening on 127.0.0.1:56699
+1665814838344	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56700" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile4KI0Nn"
+2022-10-15 02:20:38.690 plugin-container[8564:258554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:20:38.691 plugin-container[8564:258554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814838696	Marionette	INFO	Marionette enabled
+2022-10-15 02:20:38.723 plugin-container[8564:258554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:20:38.723 plugin-container[8564:258554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:20:38.723 plugin-container[8564:258552] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:20:38.723 plugin-container[8564:258552] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814838726	Marionette	INFO	Listening on port 56705
+Read port: 56705
+WebDriver BiDi listening on ws://127.0.0.1:56700
+1665814838944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile4KI0Nn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56700/devtools/browser/3741c4c9-1a5e-4d4b-b2a1-5a6e9d770c7b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814864940	geckodriver	INFO	Listening on 127.0.0.1:56780
+1665814865357	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56781" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileXNGst5"
+1665814865716	Marionette	INFO	Marionette enabled
+2022-10-15 02:21:05.724 plugin-container[8594:259183] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:21:05.724 plugin-container[8594:259183] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814865741	Marionette	INFO	Listening on port 56786
+2022-10-15 02:21:05.743 plugin-container[8594:259183] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:21:05.743 plugin-container[8594:259183] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:21:05.744 plugin-container[8594:259188] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:21:05.744 plugin-container[8594:259188] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 56786
+WebDriver BiDi listening on ws://127.0.0.1:56781
+1665814866001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileXNGst5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56781/devtools/browser/6749aeda-0102-43f9-8a4c-35f63d18116d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665814891066	geckodriver	INFO	Listening on 127.0.0.1:56843
+1665814891485	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56844" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileAse6Pp"
+2022-10-15 02:21:31.811 plugin-container[8622:259759] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:21:31.811 plugin-container[8622:259759] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665814891816	Marionette	INFO	Marionette enabled
+1665814891841	Marionette	INFO	Listening on port 56849
+2022-10-15 02:21:31.841 plugin-container[8622:259759] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:21:31.842 plugin-container[8622:259759] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:21:31.842 plugin-container[8622:259764] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:21:31.842 plugin-container[8622:259764] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 56849
+WebDriver BiDi listening on ws://127.0.0.1:56844
+1665814892064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileAse6Pp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56844/devtools/browser/8429cdee-62bc-46dd-89de-4b45b4f5911d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665815017110	geckodriver	INFO	Listening on 127.0.0.1:56922
+1665815017528	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56923" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofiledh0rB7"
+2022-10-15 02:23:37.893 plugin-container[8662:260955] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:23:37.893 plugin-container[8662:260955] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665815017897	Marionette	INFO	Marionette enabled
+2022-10-15 02:23:37.923 plugin-container[8662:260955] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:23:37.923 plugin-container[8662:260955] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:23:37.923 plugin-container[8662:260989] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:23:37.923 plugin-container[8662:260989] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665815017924	Marionette	INFO	Listening on port 56928
+Read port: 56928
+WebDriver BiDi listening on ws://127.0.0.1:56923
+1665815018151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofiledh0rB7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56923/devtools/browser/b79669f6-de5d-4a4a-87be-2924b727acd4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665815032656	geckodriver	INFO	Listening on 127.0.0.1:56988
+1665815033075	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56989" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilepG1a4T"
+1665815033339	Marionette	INFO	Marionette enabled
+2022-10-15 02:23:53.340 plugin-container[8693:261530] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:23:53.340 plugin-container[8693:261530] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:23:53.363 plugin-container[8693:261530] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:23:53.363 plugin-container[8693:261530] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 02:23:53.363 plugin-container[8693:261564] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 02:23:53.363 plugin-container[8693:261564] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665815033375	Marionette	INFO	Listening on port 56994
+Read port: 56994
+WebDriver BiDi listening on ws://127.0.0.1:56989
+1665815033643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilepG1a4T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56989/devtools/browser/a0219bda-3709-4877-abb6-c0c490a3a9d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665815056354	Marionette	INFO	Stopped listening on port 56577
+1665815063056	Marionette	INFO	Stopped listening on port 56705
+1665815065128	Marionette	INFO	Stopped listening on port 56786
+1665815076752	Marionette	INFO	Stopped listening on port 56641
+1665815092489	Marionette	INFO	Stopped listening on port 56515
+1665815132460	Marionette	INFO	Stopped listening on port 56928
+1665815134451	Marionette	INFO	Stopped listening on port 56849
+1665815136607	Marionette	INFO	Stopped listening on port 56458
+1665815138416	Marionette	INFO	Stopped listening on port 56994
+1665871803904	geckodriver	INFO	Listening on 127.0.0.1:58232
+1665871804314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58233" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilehR3VcO"
+2022-10-15 18:10:04.812 plugin-container[9369:308361] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:10:04.813 plugin-container[9369:308361] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665871804814	Marionette	INFO	Marionette enabled
+1665871804860	Marionette	INFO	Listening on port 58238
+2022-10-15 18:10:04.860 plugin-container[9369:308361] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:10:04.860 plugin-container[9369:308361] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:10:04.860 plugin-container[9369:308364] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:10:04.860 plugin-container[9369:308364] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 58238
+WebDriver BiDi listening on ws://127.0.0.1:58233
+1665871805177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilehR3VcO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58233/devtools/browser/e840d85f-5201-4a18-9131-2524e5e19d84
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665871886002	geckodriver	INFO	Listening on 127.0.0.1:58313
+1665871886422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58314" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileCnTqyw"
+2022-10-15 18:11:26.764 plugin-container[9410:309445] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:11:26.764 plugin-container[9410:309445] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665871886770	Marionette	INFO	Marionette enabled
+2022-10-15 18:11:26.795 plugin-container[9410:309445] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:11:26.795 plugin-container[9410:309445] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:11:26.796 plugin-container[9410:309443] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:11:26.796 plugin-container[9410:309443] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665871886797	Marionette	INFO	Listening on port 58319
+Read port: 58319
+WebDriver BiDi listening on ws://127.0.0.1:58314
+1665871886948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileCnTqyw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58314/devtools/browser/dd295cef-7a7f-468d-b2e7-2261de7059da
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665871897087	geckodriver	INFO	Listening on 127.0.0.1:58370
+1665871897514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58371" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilebshfwt"
+1665871897817	Marionette	INFO	Marionette enabled
+2022-10-15 18:11:37.818 plugin-container[9437:309920] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:11:37.818 plugin-container[9437:309920] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:11:37.848 plugin-container[9437:309920] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:11:37.848 plugin-container[9437:309920] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:11:37.848 plugin-container[9437:309926] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:11:37.848 plugin-container[9437:309926] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665871897862	Marionette	INFO	Listening on port 58376
+Read port: 58376
+WebDriver BiDi listening on ws://127.0.0.1:58371
+1665871898273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilebshfwt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58371/devtools/browser/0e713b3c-24dd-423b-af58-e69ddf47ccfb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665871913203	geckodriver	INFO	Listening on 127.0.0.1:58435
+1665871913596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58436" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile3dtid7"
+1665871914437	Marionette	INFO	Marionette enabled
+2022-10-15 18:11:54.458 plugin-container[9466:310526] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:11:54.458 plugin-container[9466:310526] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:11:54.469 plugin-container[9466:310526] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:11:54.469 plugin-container[9466:310526] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:11:54.470 plugin-container[9466:310529] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:11:54.470 plugin-container[9466:310529] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665871914472	Marionette	INFO	Listening on port 58441
+Read port: 58441
+WebDriver BiDi listening on ws://127.0.0.1:58436
+1665871914745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile3dtid7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58436/devtools/browser/b1e01cc1-30e3-4f92-99d3-b776bec93002
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665871931756	geckodriver	INFO	Listening on 127.0.0.1:58497
+1665871932177	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58498" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofiley99cML"
+2022-10-15 18:12:12.514 plugin-container[9497:311077] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:12:12.514 plugin-container[9497:311077] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665871932520	Marionette	INFO	Marionette enabled
+2022-10-15 18:12:12.546 plugin-container[9497:311077] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:12:12.546 plugin-container[9497:311077] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:12:12.546 plugin-container[9497:311106] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:12:12.546 plugin-container[9497:311106] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665871932547	Marionette	INFO	Listening on port 58503
+Read port: 58503
+WebDriver BiDi listening on ws://127.0.0.1:58498
+1665871932758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofiley99cML/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58498/devtools/browser/0e45fc86-9c18-4411-8ae0-7315fd596689
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665871942549	Marionette	INFO	Stopped listening on port 58503
+1665871944610	Marionette	INFO	Stopped listening on port 58441
+1665871946877	Marionette	INFO	Stopped listening on port 58376
+1665871948869	Marionette	INFO	Stopped listening on port 58319
+1665872015850	geckodriver	INFO	Listening on 127.0.0.1:58569
+1665872016270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58570" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileTt0uN8"
+2022-10-15 18:13:36.601 plugin-container[9537:312238] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:13:36.601 plugin-container[9537:312238] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872016608	Marionette	INFO	Marionette enabled
+2022-10-15 18:13:36.631 plugin-container[9537:312238] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:13:36.631 plugin-container[9537:312238] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:13:36.632 plugin-container[9537:312245] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:13:36.632 plugin-container[9537:312245] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872016633	Marionette	INFO	Listening on port 58575
+Read port: 58575
+WebDriver BiDi listening on ws://127.0.0.1:58570
+1665872016858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileTt0uN8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58570/devtools/browser/836c559b-82cd-42d2-8c7f-e8619638be43
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665872027519	geckodriver	INFO	Listening on 127.0.0.1:58630
+1665872027946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58631" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileRMBBJz"
+2022-10-15 18:13:48.206 plugin-container[9564:312681] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:13:48.207 plugin-container[9564:312681] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872028207	Marionette	INFO	Marionette enabled
+2022-10-15 18:13:48.230 plugin-container[9564:312681] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:13:48.230 plugin-container[9564:312681] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:13:48.230 plugin-container[9564:312687] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:13:48.230 plugin-container[9564:312687] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872028241	Marionette	INFO	Listening on port 58636
+Read port: 58636
+WebDriver BiDi listening on ws://127.0.0.1:58631
+1665872028519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileRMBBJz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58631/devtools/browser/a8f940a7-980a-472c-85db-d44ec8467b1a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665872049083	geckodriver	INFO	Listening on 127.0.0.1:58695
+1665872049504	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58696" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilezE4l1g"
+2022-10-15 18:14:09.868 plugin-container[9594:313231] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:14:09.868 plugin-container[9594:313231] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872049875	Marionette	INFO	Marionette enabled
+2022-10-15 18:14:09.895 plugin-container[9594:313231] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:14:09.895 plugin-container[9594:313231] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:14:09.896 plugin-container[9594:313236] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:14:09.896 plugin-container[9594:313236] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872049901	Marionette	INFO	Listening on port 58701
+Read port: 58701
+WebDriver BiDi listening on ws://127.0.0.1:58696
+1665872050218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilezE4l1g/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58696/devtools/browser/58dbb5ca-8b1e-42ac-b73a-85a88cbce580
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665872059258	geckodriver	INFO	Listening on 127.0.0.1:58758
+1665872059687	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58759" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileoggW4d"
+1665872060089	Marionette	INFO	Marionette enabled
+2022-10-15 18:14:20.109 plugin-container[9625:313730] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:14:20.109 plugin-container[9625:313730] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:14:20.118 plugin-container[9625:313730] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:14:20.119 plugin-container[9625:313730] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:14:20.119 plugin-container[9625:313728] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:14:20.119 plugin-container[9625:313728] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872060121	Marionette	INFO	Listening on port 58764
+Read port: 58764
+WebDriver BiDi listening on ws://127.0.0.1:58759
+1665872060473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileoggW4d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58759/devtools/browser/2a605964-71fb-4eed-8c45-d26901bd4505
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665872079998	geckodriver	INFO	Listening on 127.0.0.1:58821
+1665872080420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58822" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileOZkbfm"
+2022-10-15 18:14:40.787 plugin-container[9650:314324] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:14:40.787 plugin-container[9650:314324] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:14:40.791 plugin-container[9650:314324] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:14:40.791 plugin-container[9650:314324] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:14:40.792 plugin-container[9650:314321] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:14:40.792 plugin-container[9650:314321] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872080793	Marionette	INFO	Marionette enabled
+1665872080816	Marionette	INFO	Listening on port 58827
+Read port: 58827
+WebDriver BiDi listening on ws://127.0.0.1:58822
+1665872081051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileOZkbfm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58822/devtools/browser/c6631160-a76f-46d2-af8d-ac2a9ecacc1f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665872131076	geckodriver	INFO	Listening on 127.0.0.1:58892
+1665872131490	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58893" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileow4i6p"
+2022-10-15 18:15:31.833 plugin-container[9684:315293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:15:31.833 plugin-container[9684:315293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872131841	Marionette	INFO	Marionette enabled
+2022-10-15 18:15:31.865 plugin-container[9684:315293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:15:31.865 plugin-container[9684:315293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:15:31.866 plugin-container[9684:315300] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:15:31.866 plugin-container[9684:315300] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872131866	Marionette	INFO	Listening on port 58898
+Read port: 58898
+WebDriver BiDi listening on ws://127.0.0.1:58893
+1665872132079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileow4i6p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58893/devtools/browser/56849afe-a341-4887-bddf-01b4032db98b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665872147520	geckodriver	INFO	Listening on 127.0.0.1:59030
+1665872147939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59031" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilefDSqeO"
+2022-10-15 18:15:48.271 plugin-container[9717:315895] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:15:48.272 plugin-container[9717:315895] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:15:48.276 plugin-container[9717:315895] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:15:48.276 plugin-container[9717:315895] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:15:48.277 plugin-container[9717:315919] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:15:48.277 plugin-container[9717:315919] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872148277	Marionette	INFO	Marionette enabled
+1665872148301	Marionette	INFO	Listening on port 59036
+Read port: 59036
+WebDriver BiDi listening on ws://127.0.0.1:59031
+1665872148543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilefDSqeO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59031/devtools/browser/0a7f3b24-0a07-4e9e-8593-0a1212d5ab00
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665872159774	geckodriver	INFO	Listening on 127.0.0.1:59118
+1665872160205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59119" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile1sDgy3"
+2022-10-15 18:16:00.552 plugin-container[9750:316484] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:16:00.553 plugin-container[9750:316484] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872160560	Marionette	INFO	Marionette enabled
+2022-10-15 18:16:00.578 plugin-container[9750:316484] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:16:00.578 plugin-container[9750:316484] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:16:00.579 plugin-container[9750:316511] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:16:00.579 plugin-container[9750:316511] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665872160583	Marionette	INFO	Listening on port 59124
+Read port: 59124
+WebDriver BiDi listening on ws://127.0.0.1:59119
+1665872160797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile1sDgy3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59119/devtools/browser/a8bed5af-588b-4e27-af5c-3a827ca9bbc5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665872177231	geckodriver	INFO	Listening on 127.0.0.1:59232
+1665872177642	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59233" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile22dRpE"
+1665872177982	Marionette	INFO	Marionette enabled
+1665872178008	Marionette	INFO	Listening on port 59238
+2022-10-15 18:16:18.010 plugin-container[9782:317150] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:16:18.011 plugin-container[9782:317150] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:16:18.034 plugin-container[9782:317150] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:16:18.034 plugin-container[9782:317150] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 18:16:18.034 plugin-container[9782:317155] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 18:16:18.034 plugin-container[9782:317155] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 59238
+WebDriver BiDi listening on ws://127.0.0.1:59233
+1665872178216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile22dRpE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59233/devtools/browser/e2d74f88-de44-445f-ace2-d64d8f1ecd5a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665872206178	Marionette	INFO	Stopped listening on port 59036
+1665872207707	Marionette	INFO	Stopped listening on port 58764
+1665872209523	Marionette	INFO	Stopped listening on port 58701
+1665872212048	Marionette	INFO	Stopped listening on port 58827
+1665872217713	Marionette	INFO	Stopped listening on port 58636
+1665872219459	Marionette	INFO	Stopped listening on port 58898
+1665872227241	Marionette	INFO	Stopped listening on port 59238
+1665872229168	Marionette	INFO	Stopped listening on port 59124
+1665872231018	Marionette	INFO	Stopped listening on port 58575
+1665879658787	geckodriver	INFO	Listening on 127.0.0.1:59607
+1665879659209	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59608" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilemPOJ4j"
+2022-10-15 20:20:59.568 plugin-container[10119:344640] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:20:59.569 plugin-container[10119:344640] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665879659569	Marionette	INFO	Marionette enabled
+2022-10-15 20:20:59.594 plugin-container[10119:344640] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:20:59.594 plugin-container[10119:344640] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:20:59.595 plugin-container[10119:344646] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:20:59.595 plugin-container[10119:344646] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665879659596	Marionette	INFO	Listening on port 59613
+Read port: 59613
+WebDriver BiDi listening on ws://127.0.0.1:59608
+1665879659819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilemPOJ4j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59608/devtools/browser/48c07206-bbfe-430d-b965-962edd19002e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665879706957	geckodriver	INFO	Listening on 127.0.0.1:59701
+1665879707376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59702" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileGBjDhu"
+2022-10-15 20:21:47.716 plugin-container[10153:345373] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:21:47.716 plugin-container[10153:345373] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:21:47.719 plugin-container[10153:345373] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:21:47.719 plugin-container[10153:345373] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:21:47.720 plugin-container[10153:345375] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:21:47.720 plugin-container[10153:345375] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665879707722	Marionette	INFO	Marionette enabled
+1665879707745	Marionette	INFO	Listening on port 59707
+Read port: 59707
+WebDriver BiDi listening on ws://127.0.0.1:59702
+1665879707967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileGBjDhu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59702/devtools/browser/58f7c07f-85f5-4a17-a3f7-1ddc38da4cff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665879763491	geckodriver	INFO	Listening on 127.0.0.1:59818
+1665879763915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59819" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileveYzu0"
+2022-10-15 20:22:44.259 plugin-container[10185:346152] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:22:44.259 plugin-container[10185:346152] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:22:44.262 plugin-container[10185:346152] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:22:44.262 plugin-container[10185:346152] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:22:44.262 plugin-container[10185:346150] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:22:44.262 plugin-container[10185:346150] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665879764265	Marionette	INFO	Marionette enabled
+1665879764288	Marionette	INFO	Listening on port 59824
+Read port: 59824
+WebDriver BiDi listening on ws://127.0.0.1:59819
+1665879764521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileveYzu0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59819/devtools/browser/e3ffa050-e710-49f6-93e8-c7bf3caf426e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665879828709	geckodriver	INFO	Listening on 127.0.0.1:59919
+1665879829128	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59920" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileO1qzfF"
+2022-10-15 20:23:49.392 plugin-container[10225:347043] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:23:49.394 plugin-container[10225:347043] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:23:49.397 plugin-container[10225:347043] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:23:49.397 plugin-container[10225:347043] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:23:49.397 plugin-container[10225:347072] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:23:49.397 plugin-container[10225:347072] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665879829399	Marionette	INFO	Marionette enabled
+1665879829436	Marionette	INFO	Listening on port 59925
+Read port: 59925
+WebDriver BiDi listening on ws://127.0.0.1:59920
+1665879829722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileO1qzfF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59920/devtools/browser/61a47837-f62f-4676-a79e-e7d5153a7bb3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665879903217	geckodriver	INFO	Listening on 127.0.0.1:60041
+1665879903633	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60042" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileth4rRn"
+2022-10-15 20:25:03.979 plugin-container[10269:348035] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:25:03.979 plugin-container[10269:348035] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665879903984	Marionette	INFO	Marionette enabled
+2022-10-15 20:25:04.008 plugin-container[10269:348035] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:25:04.008 plugin-container[10269:348035] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:25:04.008 plugin-container[10269:348041] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:25:04.009 plugin-container[10269:348041] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665879904009	Marionette	INFO	Listening on port 60047
+Read port: 60047
+WebDriver BiDi listening on ws://127.0.0.1:60042
+1665879904254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileth4rRn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60042/devtools/browser/d086fbfc-e072-46b6-adf8-f9484a8f12c5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665879951820	geckodriver	INFO	Listening on 127.0.0.1:60154
+1665879952238	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60155" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilefsVTMF"
+1665879952582	Marionette	INFO	Marionette enabled
+2022-10-15 20:25:52.607 plugin-container[10301:348787] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:25:52.608 plugin-container[10301:348787] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:25:52.613 plugin-container[10301:348787] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:25:52.613 plugin-container[10301:348787] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:25:52.613 plugin-container[10301:348817] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:25:52.613 plugin-container[10301:348817] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665879952613	Marionette	INFO	Listening on port 60160
+Read port: 60160
+WebDriver BiDi listening on ws://127.0.0.1:60155
+1665879952818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilefsVTMF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60155/devtools/browser/77a7846d-5693-42da-9af3-97ef8a6b132c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665880038829	Marionette	INFO	Stopped listening on port 59613
+1665880040749	Marionette	INFO	Stopped listening on port 59707
+1665880042307	Marionette	INFO	Stopped listening on port 59824
+1665880045621	Marionette	INFO	Stopped listening on port 59925
+1665880047378	Marionette	INFO	Stopped listening on port 60047
+1665880049820	Marionette	INFO	Stopped listening on port 60160
+1665880325149	geckodriver	INFO	Listening on 127.0.0.1:60299
+1665880325571	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60300" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileGbeU75"
+2022-10-15 20:32:05.943 plugin-container[11293:353338] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:32:05.943 plugin-container[11293:353338] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:32:05.948 plugin-container[11293:353338] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:32:05.948 plugin-container[11293:353338] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:32:05.948 plugin-container[11293:353362] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:32:05.949 plugin-container[11293:353362] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665880325952	Marionette	INFO	Marionette enabled
+1665880325980	Marionette	INFO	Listening on port 60306
+Read port: 60306
+WebDriver BiDi listening on ws://127.0.0.1:60300
+1665880326201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileGbeU75/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60300/devtools/browser/76fdf18a-a4d5-4adf-a951-38d7dc020729
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665880576085	geckodriver	INFO	Listening on 127.0.0.1:60492
+1665880576506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60493" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofiledndTS9"
+2022-10-15 20:36:16.854 plugin-container[12138:357427] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:36:16.854 plugin-container[12138:357427] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665880576862	Marionette	INFO	Marionette enabled
+2022-10-15 20:36:16.885 plugin-container[12138:357427] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:36:16.885 plugin-container[12138:357427] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:36:16.885 plugin-container[12138:357425] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:36:16.885 plugin-container[12138:357425] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665880576888	Marionette	INFO	Listening on port 60499
+Read port: 60499
+WebDriver BiDi listening on ws://127.0.0.1:60493
+1665880577100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofiledndTS9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60493/devtools/browser/8cee135a-9e63-49ca-b4d2-f4a3d259a4d9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665880634919	geckodriver	INFO	Listening on 127.0.0.1:60619
+1665880635336	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60620" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilemZPF1u"
+2022-10-15 20:37:15.684 plugin-container[12204:358393] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:37:15.685 plugin-container[12204:358393] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665880635691	Marionette	INFO	Marionette enabled
+2022-10-15 20:37:15.691 plugin-container[12204:358393] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:37:15.691 plugin-container[12204:358393] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:37:15.692 plugin-container[12204:358421] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:37:15.692 plugin-container[12204:358421] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665880635718	Marionette	INFO	Listening on port 60627
+Read port: 60627
+WebDriver BiDi listening on ws://127.0.0.1:60620
+1665880635939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilemZPF1u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60620/devtools/browser/dc8b8418-79a7-4a95-b0ab-c97cb51ceb12
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665880756265	geckodriver	INFO	Listening on 127.0.0.1:60864
+1665880756696	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60865" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileHlmMOH"
+1665880757125	Marionette	INFO	Marionette enabled
+2022-10-15 20:39:17.128 plugin-container[12287:360115] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:39:17.129 plugin-container[12287:360115] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:39:17.157 plugin-container[12287:360115] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:39:17.157 plugin-container[12287:360115] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665880757157	Marionette	INFO	Listening on port 60870
+2022-10-15 20:39:17.157 plugin-container[12287:360118] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:39:17.157 plugin-container[12287:360118] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 60870
+WebDriver BiDi listening on ws://127.0.0.1:60865
+1665880757333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileHlmMOH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60865/devtools/browser/9f1c4791-21a7-4671-9934-b05fa293ad9d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665880821898	geckodriver	INFO	Listening on 127.0.0.1:60993
+1665880822318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60994" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilemjC5K5"
+2022-10-15 20:40:22.579 plugin-container[12341:361036] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:40:22.579 plugin-container[12341:361036] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:40:22.587 plugin-container[12341:361036] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:40:22.587 plugin-container[12341:361036] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:40:22.588 plugin-container[12341:361034] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:40:22.588 plugin-container[12341:361034] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665880822589	Marionette	INFO	Marionette enabled
+1665880822622	Marionette	INFO	Listening on port 61000
+Read port: 61000
+WebDriver BiDi listening on ws://127.0.0.1:60994
+1665880822902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofilemjC5K5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60994/devtools/browser/4b6ad279-8521-4143-b3ae-606a1be5ebc1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665880861754	Marionette	INFO	Stopped listening on port 60306
+1665880866392	Marionette	INFO	Stopped listening on port 60870
+1665880868942	Marionette	INFO	Stopped listening on port 61000
+1665880870696	Marionette	INFO	Stopped listening on port 60627
+1665880874463	Marionette	INFO	Stopped listening on port 60499
+1665880993556	geckodriver	INFO	Listening on 127.0.0.1:61126
+1665880993972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61127" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile9vz6mk"
+2022-10-15 20:43:14.308 plugin-container[12413:363264] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:43:14.309 plugin-container[12413:363264] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665880994316	Marionette	INFO	Marionette enabled
+2022-10-15 20:43:14.340 plugin-container[12413:363264] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:43:14.340 plugin-container[12413:363264] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:43:14.340 plugin-container[12413:363293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:43:14.340 plugin-container[12413:363293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665880994342	Marionette	INFO	Listening on port 61133
+Read port: 61133
+WebDriver BiDi listening on ws://127.0.0.1:61127
+1665880994553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofile9vz6mk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61127/devtools/browser/afaf7345-5401-4a6e-8449-62d10b8f6429
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665881073255	Marionette	INFO	Stopped listening on port 61133
+1665881075523	Marionette	INFO	Stopped listening on port 58238
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665881089363	geckodriver	INFO	Listening on 127.0.0.1:61252
+1665881089780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61253" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileCriygF"
+2022-10-15 20:44:50.094 plugin-container[12484:364598] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:44:50.094 plugin-container[12484:364598] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:44:50.097 plugin-container[12484:364598] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:44:50.097 plugin-container[12484:364598] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-15 20:44:50.098 plugin-container[12484:364600] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-15 20:44:50.098 plugin-container[12484:364600] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665881090102	Marionette	INFO	Marionette enabled
+1665881090124	Marionette	INFO	Listening on port 61258
+WebDriver BiDi listening on ws://127.0.0.1:61253
+Read port: 61258
+1665881090340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/pxdnh25s75x1jyrzm5z81gqm0000gn/T/rust_mozprofileCriygF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61253/devtools/browser/ec5b0f84-b364-4dea-a1dd-a8d400d35493
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.zolo.ca."
+1665881168470	Marionette	INFO	Stopped listening on port 61258

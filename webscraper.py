@@ -1,43 +1,54 @@
-from urllib.request import urlopen
-from bs4 import BeautifulSoup
 from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.service import Service
+import time
+from urllib.request import Request, urlopen
+from bs4 import BeautifulSoup
 
-# Use Selenium and BeautifulSoup to web scrape from Realtor.ca
+# Use Selenium and BeautifulSoup to web scrape from zolo.ca
 
-# Open realtor.ca
-driver = webdriver.Chrome(ChromeDriverManager().install())
-#driver = webdriver.Chrome()
-driver.get("https://www.realtor.ca/")
+# Open zolo.ca on Firefox
+driver = webdriver.Firefox(service=Service(executable_path=GeckoDriverManager().install()))
+driver.get("https://www.zolo.ca/")
 
-location = "l9t" # User inputed 
-#element = driver.find_element_by_id("homeSearchTxt")
-element = driver.find_element("homeSearchTxt")
-element.send_keys(location) # Types the desired location into the search bar
-element.send_keys(Keys.ENTER)
+location = "l9t 6h7"  # Make this user inputted using node.js
+driver.find_element(By.ID, "sarea").clear()
+element = driver.find_element(By.ID, "sarea")
+element.send_keys(location)
+element.send_keys(Keys.RETURN)  # Enters the desired location in the search bar
 
-url_to_scrape = driver.getCurrentUrl() # Gets the URL of the page from the desired location
+time.sleep(2)
 
-request_page = urlopen(url_to_scrape)
-page_html = request_page.read()
-request_page.close()
+# Use webscraper on website
+url = driver.current_url  # Gets the URL of the page from the desired location
+request_page = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+webpage = urlopen(request_page).read()
+# webpage.close()
 
-html_soup = BeautifulSoup(page_html, 'html.parser')
+html_soup = BeautifulSoup(webpage, 'html.parser')
 
-house_items = html_soup.find_all('div', class_="")
+house_items = html_soup.find_all('div',
+                                 class_="card-listing--details xs-p2 xs-text-4 fill-white flex xs-flex-column xs-flex-shrink-0 xs-relative")
 
 filename = 'local_house_info.csv'
 f = open(filename, 'w')
 
-headers = 'Size, Price \n'
+headers = 'Price, Size \n'
 
 f.write(headers)
 
 for house in house_items:
-    location = house.find('div', class_="smallListingCardAddress")
-    price = house.find('div', class_="smallListingCardPrice")
+    price = house.find('span', itemprop="price").text
+    price = price.replace(',', '')
+    size = ''
+    extra_info = house.find_all('li', class_="xs-inline xs-mr1")
+    for info in extra_info:
+        if ((info.text).endswith('sqft')):
+            size = info.text
 
-    f.write(location + ',' + price)
+    f.write(price + ',' + size + '\n')
 
 f.close()
+
