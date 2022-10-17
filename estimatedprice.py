@@ -20,5 +20,8 @@ with open('local_house_info.csv') as csv_file:
         if webscraper.house_sqft * 0.8 < df.at[ind, 'Size'] < webscraper.house_sqft * 1.2:
             similar_prices.append(int(df.at[ind, 'Price']))
 
-    estimated_price = int(sum(similar_prices) / len(similar_prices))
+    if len(similar_prices) == 0:
+        estimated_price = "Not available"
+    else:
+        estimated_price = int(sum(similar_prices) / len(similar_prices))
     print(estimated_price)
