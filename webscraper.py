@@ -13,8 +13,8 @@ from bs4 import BeautifulSoup
 driver = webdriver.Firefox(service=Service(executable_path=GeckoDriverManager().install()))
 driver.get("https://www.zolo.ca/")
 
-location = "L9t"  # Make this user inputted using node.js
-house_sqft = 1500 # Make this user inputted
+location = "n2l"  # Make this user inputted using node.js
+house_sqft = 1000 # Make this user inputted
 driver.find_element(By.ID, "sarea").clear()
 element = driver.find_element(By.ID, "sarea")
 element.send_keys(location)
