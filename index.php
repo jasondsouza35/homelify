@@ -4,7 +4,7 @@
   <link rel="stylesheet" href="styles.css">
     <div class="center">
         <p>Enter details:</p>
-        <form action="/estimate_home_price/" method="post">
+        <form action="estimated_price.php" method="get">
             <label for="adr">Address:</label><br>
             <input type="text" id="adr" name="adr"><br>
             <br />
@@ -13,7 +13,7 @@
             <br />
             <br />
             <button type="submit">Submit</button>
-          </form>
+        </form>
     </div>
 </head>
 </html>

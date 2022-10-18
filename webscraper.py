@@ -6,15 +6,17 @@ from selenium.webdriver.firefox.service import Service
 import time
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
+import sys
 
 # Use Selenium and BeautifulSoup to web scrape from zolo.ca
 
+print(sys.argv[1])
 # Open zolo.ca on Firefox
 driver = webdriver.Firefox(service=Service(executable_path=GeckoDriverManager().install()))
 driver.get("https://www.zolo.ca/")
 
-location = "v5g"  # Make this user inputted using node.js
-house_sqft = 1000 # Make this user inputted
+location = sys.argv[1]  # Inputted by the user from PHP
+house_sqft = sys.argv[2]  # Make this user inputted
 driver.find_element(By.ID, "sarea").clear()
 element = driver.find_element(By.ID, "sarea")
 element.send_keys(location)
