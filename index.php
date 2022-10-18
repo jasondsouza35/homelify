@@ -3,9 +3,7 @@
 <head>
   <link rel="stylesheet" href="styles.css">
     <div class="center">
-        <body>
-            <p>Enter details:</p>
-        </body>
+        <p>Enter details:</p>
         <form action="/estimate_home_price/" method="post">
             <label for="adr">Address:</label><br>
             <input type="text" id="adr" name="adr"><br>
